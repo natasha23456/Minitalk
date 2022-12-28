@@ -1,7 +1,7 @@
 NAME = libftprintf.a
 
 SRCDIR = srcs
-OBJSDIR = OBJSDIR
+OBJSDIR = objs
 INC = include
 
 CC = gcc
